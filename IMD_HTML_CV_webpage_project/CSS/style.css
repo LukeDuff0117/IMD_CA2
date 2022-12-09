@@ -1,6 +1,7 @@
 #header-image-menu{
     top: 10px;
     position: relative;
+    width:100%;
 }
  
 #header-image-menu img{
@@ -11,12 +12,12 @@
  
 #image-text{
     position:absolute;
-    top: 90%;
+    top: 0%;
     left: 48.5%;
     bottom: 10%;
     right: 40%;
     font-family: 'Roboto';
-    color: #000;
+    color: navy;
     transform: translate(-30%, -30%);
     text-align: center;
 }
